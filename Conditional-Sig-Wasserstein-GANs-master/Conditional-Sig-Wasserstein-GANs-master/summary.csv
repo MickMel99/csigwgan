@@ -1,0 +1,2 @@
+abs_metric;acf_id_lag=1;asset;cross_correl;kurtosis;model_id;predictive_score;r2_trtr;r2_tstr;seed;sig_w1_metric;skew
+0,08408;0,23667;SPX_DJI;0,22595;2,40288;SigCWGAN;0,24266;0,43186;0,18920;seed=0;0,50613;1,04838
